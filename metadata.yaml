@@ -1,0 +1,30 @@
+_repo: Nature-Mysticism_18539
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mercer, John Edward
+    alias: Mercer, J. E. (John Edward)
+    birthdate: 1857
+    deathdate: 1922
+    gutenberg_agent_id: '8096'
+    url: http://www.gutenberg.org/2009/agents/8096
+    wikipedia: http://www.adb.online.anu.edu.au/biogs/A100471b.htm
+description: Cover -- Contents.
+gutenberg_issued: '2006-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18539'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Philosophy of nature'
+- !lcsh 'Mysticism'
+- !lcsh 'Nature -- Religious aspects'
+title: Nature Mysticism
+url: http://www.gutenberg.org/ebooks/18539
